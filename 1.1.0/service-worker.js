@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/EmotionBuilds/1.1.0/precache-manifest.860262bb71d7d0bb62b30a7630b263d9.js"
+  "/EmotionBuilds/1.1.0/precache-manifest.ad81364beff6cc5667c6e0d41e5d7ad5.js"
 );
 
 workbox.clientsClaim();
